@@ -16,9 +16,9 @@ I'd rather ship something small that works than something big that impresses —
 
 ## The toolbox
 
-**Languages** &nbsp;·&nbsp; TypeScript &nbsp;·&nbsp; Python &nbsp;·&nbsp; C++ &nbsp;·&nbsp; Go
-**Web & APIs** &nbsp;·&nbsp; Node.js &nbsp;·&nbsp; NestJS &nbsp;·&nbsp; Next.js &nbsp;·&nbsp; React &nbsp;·&nbsp; Tailwind &nbsp;·&nbsp; REST &nbsp;·&nbsp; WebSockets
-**Data & infra** &nbsp;·&nbsp; PostgreSQL &nbsp;·&nbsp; Redis &nbsp;·&nbsp; Docker &nbsp;·&nbsp; Nginx &nbsp;·&nbsp; Linux
+**Languages** &nbsp;·&nbsp; TypeScript &nbsp;·&nbsp; Python &nbsp;·&nbsp; C++ &nbsp;·&nbsp; Go<br>
+**Web & APIs** &nbsp;·&nbsp; Node.js &nbsp;·&nbsp; NestJS &nbsp;·&nbsp; Next.js &nbsp;·&nbsp; React &nbsp;·&nbsp; Tailwind &nbsp;·&nbsp; REST &nbsp;·&nbsp; WebSockets<br>
+**Data & infra** &nbsp;·&nbsp; PostgreSQL &nbsp;·&nbsp; Redis &nbsp;·&nbsp; Docker &nbsp;·&nbsp; Nginx &nbsp;·&nbsp; Linux<br>
 **Daily drivers** &nbsp;·&nbsp; Git &nbsp;·&nbsp; VS Code
 
 <br>
