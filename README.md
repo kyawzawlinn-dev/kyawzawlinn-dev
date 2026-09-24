@@ -1,6 +1,6 @@
 # Kyaw Zaw Linn
 
-> I build command-line tools and the web systems around them.
+> Hi, I'm Kyaw — I build command-line tools and the web systems around them.
 
 I'd rather ship something small that works than something big that impresses — clean code, sane defaults, and behavior you can predict. Most of what I ship lives under [**@jasonkyawlab**](https://github.com/jasonkyawlab).
 
@@ -16,7 +16,7 @@ I'd rather ship something small that works than something big that impresses —
 
 ## The toolbox
 
-**Languages** &nbsp;·&nbsp; TypeScript &nbsp;·&nbsp; Python &nbsp;·&nbsp; C++ &nbsp;·&nbsp; Go<br>
+**Languages** &nbsp;·&nbsp; TypeScript &nbsp;·&nbsp; Go &nbsp;·&nbsp; C# &nbsp;·&nbsp; C++ &nbsp;·&nbsp; Python &nbsp;·&nbsp; Dart &nbsp;·&nbsp; SQL<br>
 **Web & APIs** &nbsp;·&nbsp; Node.js &nbsp;·&nbsp; NestJS &nbsp;·&nbsp; Next.js &nbsp;·&nbsp; React &nbsp;·&nbsp; Tailwind &nbsp;·&nbsp; REST &nbsp;·&nbsp; WebSockets<br>
 **Data & infra** &nbsp;·&nbsp; PostgreSQL &nbsp;·&nbsp; Redis &nbsp;·&nbsp; Docker &nbsp;·&nbsp; Nginx &nbsp;·&nbsp; Linux<br>
 **Daily drivers** &nbsp;·&nbsp; Git &nbsp;·&nbsp; VS Code
@@ -27,6 +27,8 @@ I'd rather ship something small that works than something big that impresses —
 ![Python](https://img.shields.io/badge/-Python-1a1a1a?style=flat-square&logo=python)
 ![C++](https://img.shields.io/badge/-C%2B%2B-1a1a1a?style=flat-square&logo=cplusplus)
 ![Go](https://img.shields.io/badge/-Go-1a1a1a?style=flat-square&logo=go)
+![C#](https://img.shields.io/badge/-C%23-1a1a1a?style=flat-square&logo=dotnet)
+![Dart](https://img.shields.io/badge/-Dart-1a1a1a?style=flat-square&logo=dart)
 ![Node.js](https://img.shields.io/badge/-Node.js-1a1a1a?style=flat-square&logo=nodedotjs)
 ![NestJS](https://img.shields.io/badge/-NestJS-1a1a1a?style=flat-square&logo=nestjs)
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-1a1a1a?style=flat-square&logo=postgresql)
@@ -47,6 +49,8 @@ I'd rather ship something small that works than something big that impresses —
 
 ## Elsewhere
 
+[![Portfolio](https://img.shields.io/badge/Portfolio-kyawzawlinn.pages.dev-1a1a1a?style=flat-square&logo=cloudflare)](https://kyawzawlinn.pages.dev)
 [![GitHub](https://img.shields.io/badge/GitHub-kyawzawlinn--dev-1a1a1a?style=flat-square&logo=github)](https://github.com/kyawzawlinn-dev)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-kyawzawlinndev-1a1a1a?style=flat-square&logo=data%3Aimage%2Fsvg%2Bxml%3Bbase64%2CPHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCI%2BPHBhdGggZmlsbD0id2hpdGUiIGQ9Ik0yMC40NDcgMjAuNDUyaC0zLjU1NHYtNS41NjljMC0xLjMyOC0uMDI3LTMuMDM3LTEuODUyLTMuMDM3LTEuODUzIDAtMi4xMzYgMS40NDUtMi4xMzYgMi45Mzl2NS42NjdIOS4zNTFWOWgzLjQxNHYxLjU2MWguMDQ2Yy40NzctLjkgMS42MzctMS44NSAzLjM3LTEuODUgMy42MDEgMCA0LjI2NyAyLjM3IDQuMjY3IDUuNDU1djYuMjg2ek01LjMzNyA3LjQzM2MtMS4xNDQgMC0yLjA2My0uOTI2LTIuMDYzLTIuMDY1IDAtMS4xMzguOTItMi4wNjMgMi4wNjMtMi4wNjMgMS4xNCAwIDIuMDY0LjkyNSAyLjA2NCAyLjA2MyAwIDEuMTM5LS45MjUgMi4wNjUtMi4wNjQgMi4wNjV6bTEuNzgyIDEzLjAxOUgzLjU1NVY5aDMuNTY0djExLjQ1MnpNMjIuMjI1IDBIMS43NzFDLjc5MiAwIDAgLjc3NCAwIDEuNzI5djIwLjU0MkMwIDIzLjIyNy43OTIgMjQgMS43NzEgMjRoMjAuNDUxQzIzLjIgMjQgMjQgMjMuMjI3IDI0IDIyLjI3MVYxLjcyOUMyNCAuNzc0IDIzLjIgMCAyMi4yMjIgMGguMDAzeiIvPjwvc3ZnPgo%3D)](https://www.linkedin.com/in/kyawzawlinndev)
 [![Org](https://img.shields.io/badge/Org-jasonkyawlab-1a1a1a?style=flat-square&logo=github)](https://github.com/jasonkyawlab)
 [![Email](https://img.shields.io/badge/Email-kyawzawlinn.dev-1a1a1a?style=flat-square&logo=gmail)](mailto:kyawzawlinn.dev@gmail.com)
